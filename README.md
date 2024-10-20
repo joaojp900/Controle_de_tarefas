@@ -8,6 +8,7 @@ Este projeto é um sistema de controle de tarefas desenvolvido com **Laravel** e
 - **CRUD Completo**: Criação, visualização, edição e exclusão de tarefas.
 - **Envio de E-mails**: Sempre que uma nova tarefa é criada, o usuário recebe uma notificação por e-mail com os detalhes da tarefa.
 - **Interface Responsiva**: Layout responsivo utilizando Bootstrap para uma experiência amigável em dispositivos móveis e desktop.
+- Exportação de Tarefas: O sistema permite exportar sua lista de tarefas tanto em **PDF** quanto em **XLSX** (Excel), facilitando o compartilhamento e análise dos dados.
 
 ## Tecnologias Utilizadas
 
